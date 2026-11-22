@@ -1,5 +1,6 @@
 {
   "servers": [
-    {"name": "GS Monitoring", "url": "https://loc.gsmonitoring.net"}
+    {"name": "GS Monitoring", "url": "https://loc.gsmonitoring.net"},
+    {"name": "Wialon Hosting", "url": "https://hosting.wialon.com"}
   ]
 }
