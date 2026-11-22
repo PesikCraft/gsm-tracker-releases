@@ -1,0 +1,5 @@
+{
+  "servers": [
+    {"name": "GS Monitoring", "url": "https://loc.gsmonitoring.net"}
+  ]
+}
